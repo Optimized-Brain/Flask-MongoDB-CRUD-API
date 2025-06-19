@@ -25,7 +25,6 @@ A simple RESTful API built with Flask and MongoDB, supporting basic CRUD operati
 git clone https://github.com/Optimized-Brain/Flask-MongoDB-CRUD-API.git
 cd Flask-MongoDB-CRUD-API
 ```
-By default, the app reads MONGO_URI from environment. In docker-compose.yml, it’s set to mongodb://mongo:27017/Users.
 
 2. Start services
 ```powershell
